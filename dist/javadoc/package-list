@@ -1,0 +1,12 @@
+delfinswimmingclub
+delfinswimmingclub.Controller
+delfinswimmingclub.DatabBase
+delfinswimmingclub.EmployeeModel
+delfinswimmingclub.EmployeeModel.Cashier
+delfinswimmingclub.EmployeeModel.Manager
+delfinswimmingclub.EmployeeModel.Trainer
+delfinswimmingclub.HelpClasses
+delfinswimmingclub.Model
+delfinswimmingclub.PaymentManagment
+delfinswimmingclub.Trainings
+delfinswimmingclub.Util
